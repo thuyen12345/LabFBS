@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce60b3fe2e1942a489518e92d6c48fe1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCamera: {instanceID: 0}
+  - muzzleFlashPrefab: {instanceID: 0}
+  - muzzlePoint: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
